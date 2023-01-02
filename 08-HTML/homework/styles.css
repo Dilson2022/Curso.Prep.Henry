@@ -1,0 +1,13 @@
+h1{
+    color:darkmagenta;
+}
+       img{
+width: 400px;
+       }
+       #thirdDiv{
+        height: 600px;
+        width: 500px;
+        background-color:aquamarine;
+        padding: 50px;
+        border: 5px solid blue;
+       }
